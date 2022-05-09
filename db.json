@@ -2,79 +2,79 @@
   "ofertas": [
     {
       "id": 1,
-      "nome": "Playstation 4",
-      "preco": 2000,
-      "imgUrl": "https://i.zst.com.br/thumbs/12/2c/3f/165939772.jpg"
+      "nome": "Jogo de Ferramentas Profissional 300 Peças Titanium",
+      "preco": 370,
+      "imgUrl": "https://cdn.leroymerlin.com.br/products/jogo_de_ferramentas_com_110_pecas_vonder_89645472_0001_1800x1800.jpg"
     },
     {
       "id": 2,
-      "nome": "DualSense",
-      "preco": 450,
-      "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/controle-dualsense-playstation-5-ps5/magazineluiza/043186600/ac16d7d4124447ded6524e43d8831afd.jpg"
+      "nome": "Compressor Portátil 12V 50W Schulz",
+      "preco": 220,
+      "imgUrl": "https://cdn.leroymerlin.com.br/products/compressor_portatil_12v_50w_schulz_90910946_0003_1800x1800.jpg"
     },
     {
       "id": 3,
-      "nome": "HeadSet sem fio",
-      "preco": 450,
-      "imgUrl": "https://s2.glbimg.com/tjrMAEg5yqRWkUoQPC9BEaqiDIw=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/u/ZBkWVTSAG9U0iQRKplyg/pusel2.jpg"
+      "nome": "Parafusadeira/furadeira A Bateria, Carregador Bivolt Automático, Pfv 012 Vonder 12 V",
+      "preco": 250,
+      "imgUrl": "https://m.media-amazon.com/images/I/51OAL0TlojL._AC_SL1000_.jpg"
     },
     {
       "id": 4,
-      "nome": "Horizon West Forbidden",
+      "nome": "Esmerilhadeira angular Bosch GWS 850 de 4 1/2 850W 127V com maleta",
       "preco": 399,
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Horizon_Forbidden_West.jpg"
+      "imgUrl": "https://m.media-amazon.com/images/I/61w2mgM-cBS._AC_SL1000_.jpg"
     }
   ],
   "maisvendidos": [
     {
       "id": 1,
-      "nome": "Playstation 5",
-      "preco": 5000
+      "nome": "Jogo de Ferramentas Profissional 300 Peças Titanium",
+      "preco": 370
     },
     {
       "id": 2,
-      "nome": "DualSense",
-      "preco": 450
+      "nome": "Compressor Portátil 12V 50W Schulz",
+      "preco": 220
     },
     {
       "id": 3,
-      "nome": "HeadSet sem fio",
-      "preco": 450
+      "nome": "Parafusadeira/furadeira A Bateria, Carregador Bivolt Automático, Pfv 012 Vonder 12 V",
+      "preco": 250
     },
     {
       "id": 4,
-      "nome": "Horizon West Forbbiden",
+      "nome": "Esmerilhadeira angular Bosch GWS 850 de 4 1/2 850W 127V com maleta",
       "preco": 399
     }
   ],
   "detalhesproduto": [
     {
       "id": 1,
-      "nome": "Playstation 4",
-      "preco": 2000,
-      "descricao": "lorem Ipsum",
-      "imgUrl": "https://i.zst.com.br/thumbs/12/2c/3f/165939772.jpg"
+      "nome": "Jogo de Ferramentas Profissional 300 Peças Titanium",
+      "preco": 370,
+      "descricao": "Kite completo para você consertar tudo que precisa!",
+      "imgUrl": "https://cdn.leroymerlin.com.br/products/jogo_de_ferramentas_com_110_pecas_vonder_89645472_0001_1800x1800.jpg"
     },
     {
       "id": 2,
-      "nome": "DualSense",
-      "preco": 450,
-      "descricao": "lorem Ipsum",
-      "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/controle-dualsense-playstation-5-ps5/magazineluiza/043186600/ac16d7d4124447ded6524e43d8831afd.jpg"
+      "nome": "Compressor Portátil 12V 50W Schulz",
+      "preco": 250,
+      "descricao": "Compressor de alto padrão para facilitar e encher sua bola!",
+      "imgUrl": "https://cdn.leroymerlin.com.br/products/compressor_portatil_12v_50w_schulz_90910946_0003_1800x1800.jpg"
     },
     {
       "id": 3,
-      "nome": "HeadSet sem fio",
-      "preco": 450,
-      "descricao": "lorem Ipsum",
-      "imgUrl": "https://s2.glbimg.com/tjrMAEg5yqRWkUoQPC9BEaqiDIw=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/u/ZBkWVTSAG9U0iQRKplyg/pusel2.jpg"
+      "nome": "Parafusadeira/furadeira A Bateria, Carregador Bivolt Automático, Pfv 012 Vonder 12 V",
+      "preco": 250,
+      "descricao": "Parafusadeira que parafusa tudo para vc é só apertar o botão",
+      "imgUrl": "https://m.media-amazon.com/images/I/51OAL0TlojL._AC_SL1000_.jpg"
     },
     {
       "id": 4,
-      "nome": "Horizon West Forbbiden",
+      "nome": "Esmerilhadeira angular Bosch GWS 850 de 4 1/2 850W 127V com maleta",
       "preco": 399,
-      "descricao": "lorem Ipsum",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Horizon_Forbidden_West.jpg"
+      "descricao": "Esmierilhadeira lixa tudo para lixar tudo que você precisa!",
+      "imgUrl": "https://m.media-amazon.com/images/I/61w2mgM-cBS._AC_SL1000_.jpg"
     }
   ]
 }
